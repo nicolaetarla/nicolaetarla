@@ -1,7 +1,7 @@
 <b>Nicolae Tarla </b><br/>
 <i>Principal Consultant @ ONEConsult.net Ltd. </i><br/>
 <i>Microsoft MVPr | Business Transformation | Enterprise Architecture | Digital Transformation </i><br/>
-<a href="https://www.linkedin.com/in/nicolaetarla/" target="new">LinkedIn Profile</a><br/>
+<a href="https://www.linkedin.com/in/nicolaetarla/" target="_blank">LinkedIn Profile</a><br/>
 
 Helped organizations realize 10+ million dollars in savings through business process alignment, technology footprint and IT strategy.
 
