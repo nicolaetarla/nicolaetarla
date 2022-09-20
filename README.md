@@ -18,10 +18,10 @@ Microsoft MVP for four consecutive years. Published author of four technology ti
 Specialties: People Management; Strategic Leadership; Product Management; Technology Roadmap; Engagement Management; Pre-sales; POC; Change Management and Training; Power Platform including Power Apps, Power Automate, Power BI and Power Virtual Agents; Microsoft Dynamics 365 including Sales, Customer Service, Field Service, Project Service Automation, Marketing, Customer Data Platform, Artificial Intelligence, Commerce and Business Central; Microsoft 365; Microsoft Azure; Salesforce; Blackbaud Raiser’s Edge & CRM; and various open source implementations including Vtiger CRM, SugarCRM/SuiteCRM, and Wordpress. 
 
 <b>Publications:</b><br/>
-Empowering Organizations with Power Virtual AgentsEmpowering Organizations with Power Virtual Agents (Book)<br/>
+Empowering Organizations with Power Virtual Agents (Book)<br/>
   Packt Publishing · Jul 11, 2021<br/>
   <a href="https://www.amazon.com/Empowering-Organizations-Power-Virtual-Agents-dp-1801074747/dp/1801074747/ref=mt_other?_encoding=UTF8&me=&qid=1626223099">BOOK</a><br/>
-Fundamentals of CRM with Dynamics 365 and Power PlatformFundamentals of CRM with Dynamics 365 and Power Platform (Book)<br/>
+Fundamentals of CRM with Dynamics 365 and Power Platform (Book)<br/>
   Packt Publishing · Oct 6, 2020<br/>
   <a href="https://www.amazon.com/Fundamentals-CRM-Dynamics-Power-Platform-ebook/dp/B08HYWX6VL/ref=pd_rhf_dp_p_img_5_nodl?_encoding=UTF8&psc=1&refRID=Q5RDVSBDVHPTSW63T4XD">BOOK</a><br/>
 Microsoft Dynamics 365 Customer Engagement Administration (Video Training)<br/>
