@@ -17,6 +17,7 @@ Microsoft MVP for four consecutive years. Published author of four technology ti
 
 Specialties: Solution Architecture; Enterprise Architecture; Engagement Management; People Management; Strategic Leadership; Product Management; Technology Roadmap; Pre-sales; POC; Change Management and Training; Power Platform including Power Apps, Power Automate, Power BI and Power Virtual Agents; Microsoft Dynamics 365 including Sales, Customer Service, Field Service, Project Service Automation, Customer Data Platform, Artificial Intelligence, Commerce and Business Central; Microsoft 365; Microsoft Azure; ServiceNow including Integration Hub, Customer Service Management, Field Service Management, Order Management and Strategic Portfolio Management; Salesforce; and various open source implementations including Vtiger CRM, SugarCRM/SuiteCRM, and Wordpress. 
 
+##Publications
 <b>Publications:</b><br/>
 Empowering Organizations with Power Virtual Agents (Book)<br/>
   Packt Publishing · Jul 11, 2021<br/>
